@@ -1,6 +1,6 @@
 # tucao-web
 
-Web interface fot Tucao.
+Web interface for Tucao.
 
 ## Commands
 
